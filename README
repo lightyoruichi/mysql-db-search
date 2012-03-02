@@ -1,0 +1,3 @@
+I had an issue to search through the whole of mysql's certain database for a keyword across tables. Here's a rough query to do it.
+
+State your columns in your table in line 13 - line 17
